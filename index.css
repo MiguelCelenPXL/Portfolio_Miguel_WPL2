@@ -374,7 +374,7 @@ input:nth-of-type(5):checked ~ main#carousel {
 /*reflectie*/
 .container_main_3 {
     background-color: #f2f2f2;
-    height: 800px;
+    height: 600px;
 
 }
 
@@ -595,6 +595,9 @@ footer .copy {
     .container_main_5{
         height: 600px;
     }
+    .container_main_3{
+        height: 1550px;
+    }
 
 }
 @media screen and (max-width: 767px) {
@@ -645,7 +648,7 @@ footer .copy {
     }
 
     .container_main_3 {
-        height: 900px;
+        height: 2800px;
     }
 
     .container_main_4 {
